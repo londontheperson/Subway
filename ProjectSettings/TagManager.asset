@@ -9,6 +9,10 @@ TagManager:
   - Bullet
   - Ground
   - Pickup
+  - DialogueBox
+  - DialogueText
+  - DialogueName
+  - DialoguePortrait
   layers:
   - Default
   - TransparentFX
@@ -52,6 +56,18 @@ TagManager:
   - name: Gameplay
     uniqueID: 1087635889
     locked: 0
+  - name: Collision
+    uniqueID: 506117823
+    locked: 0
+  - name: WalkinFront
+    uniqueID: 894726105
+    locked: 0
+  - name: Player
+    uniqueID: 3424612971
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 1807299951
+    locked: 0
   m_RenderingLayers:
   - Default
   - Light Layer 1
@@ -61,3 +77,4 @@ TagManager:
   - Light Layer 5
   - Light Layer 6
   - Light Layer 7
+  m_MigratedRenderPipelines: []
