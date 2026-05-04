@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine.EventSystems;
+
 public class NPCDialogue : MonoBehaviour
 {
     public List<string> dialogueLines = new List<string>();
@@ -13,7 +14,8 @@ public class NPCDialogue : MonoBehaviour
     private int currentLine = 0;
     private bool playerInRange = false;
     private bool talking = false;
-    
+
+  
     void Start()
     {
         dialogueBox = GameObject.FindWithTag("DialogueBox");
@@ -27,6 +29,7 @@ public class NPCDialogue : MonoBehaviour
         
 
     }
+   
         
     
     void Update()
@@ -36,10 +39,13 @@ public class NPCDialogue : MonoBehaviour
             if (!talking)
             {
                 StartDialogue();
+               
+
             }
             else
             {
                 NextLine();
+
             }
         }
     }
