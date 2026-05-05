@@ -19,6 +19,7 @@ public class Move : Physics2DObject
     private PlayerControls controls;
     private Rigidbody2D rb;
 
+    public float moveHorizontal;
     private void Awake()
     {
         controls = new PlayerControls();
