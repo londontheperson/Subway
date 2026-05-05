@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: d59f65756814c4c2eae548de968a3a83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2631448150140116314
+    second: MBTA worm #2_0
+  - first:
+      213: 617415927915926617
+    second: MBTA worm #2_1
+  - first:
+      213: 1675182774844486442
+    second: MBTA worm #2_2
+  - first:
+      213: 4014843855021075759
+    second: MBTA worm #2_3
+  - first:
+      213: -3771010846600777031
+    second: MBTA worm #2_4
+  - first:
+      213: 9052089204117052667
+    second: MBTA worm #2_5
+  - first:
+      213: -7632408993105768546
+    second: MBTA worm #2_6
+  - first:
+      213: 2689306563177919825
+    second: MBTA worm #2_7
+  - first:
+      213: 5046470452460329179
+    second: MBTA worm #2_8
+  - first:
+      213: -5800716124452432057
+    second: MBTA worm #2_9
+  - first:
+      213: -8902718655886748734
+    second: MBTA worm #2_10
+  - first:
+      213: 6646018006323549233
+    second: MBTA worm #2_11
+  - first:
+      213: -861091520169120843
+    second: MBTA worm #2_12
+  - first:
+      213: -5415652453719049314
+    second: MBTA worm #2_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MBTA worm #2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 712
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a22a0679d73b7bd0800000000000000
+      internalID: -2631448150140116314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954d816e380819800800000000000000
+      internalID: 617415927915926617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 11
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a237574bbd17f3710800000000000000
+      internalID: 1675182774844486442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2de03fe63797b730800000000000000
+      internalID: 4014843855021075759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 11
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2373c5d9daaabc0800000000000000
+      internalID: -3771010846600777031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc9b8ecb2b7f9d70800000000000000
+      internalID: 9052089204117052667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 6
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f0f61857c341690800000000000000
+      internalID: -7632408993105768546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 11
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155b8561216525520800000000000000
+      internalID: 2689306563177919825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 6
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd81760a32aa80640800000000000000
+      internalID: 5046470452460329179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 11
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747d1271b67bf7fa0800000000000000
+      internalID: -5800716124452432057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_10
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 6
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c390a41d80337480800000000000000
+      internalID: -8902718655886748734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 11
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134d3c52a266b3c50800000000000000
+      internalID: 6646018006323549233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_12
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 6
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbe73d13d9cc04f0800000000000000
+      internalID: -861091520169120843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MBTA worm #2_13
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 11
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b7a1569ccb7d4b0800000000000000
+      internalID: -5415652453719049314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MBTA worm #2_0: -2631448150140116314
+      MBTA worm #2_1: 617415927915926617
+      MBTA worm #2_10: -8902718655886748734
+      MBTA worm #2_11: 6646018006323549233
+      MBTA worm #2_12: -861091520169120843
+      MBTA worm #2_13: -5415652453719049314
+      MBTA worm #2_2: 1675182774844486442
+      MBTA worm #2_3: 4014843855021075759
+      MBTA worm #2_4: -3771010846600777031
+      MBTA worm #2_5: 9052089204117052667
+      MBTA worm #2_6: -7632408993105768546
+      MBTA worm #2_7: 2689306563177919825
+      MBTA worm #2_8: 5046470452460329179
+      MBTA worm #2_9: -5800716124452432057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
